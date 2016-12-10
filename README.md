@@ -1,9 +1,9 @@
 # Simple File System Simulator
 
-A Simple File System (SFS) Simulator built using C Programming language. The simulator performs the following tasks:
+A Simple File System (SFS) Simulator built using C programming language. The simulator performs the following tasks:
 
-1) Create A New File System
+1) Create a new file system.
 
-2) Write A New File onto the Disk
+2) Write a new file onto the disk.
 
-3) Read A File From the Disk
+3) Read a file from the disk
