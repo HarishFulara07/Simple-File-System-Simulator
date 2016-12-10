@@ -6,4 +6,4 @@ A Simple File System (SFS) Simulator built using C programming language. The sim
 
 2) Write a new file onto the disk.
 
-3) Read a file from the disk
+3) Read a file from the disk.
